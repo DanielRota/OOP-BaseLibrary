@@ -1,0 +1,5 @@
+E:\BaseClass\BaseClass\obj\Debug\net5.0\BaseClass.csproj.AssemblyReference.cache
+E:\BaseClass\BaseClass\obj\Debug\net5.0\BaseClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaseClass\BaseClass\obj\Debug\net5.0\BaseClass.AssemblyInfoInputs.cache
+E:\BaseClass\BaseClass\obj\Debug\net5.0\BaseClass.AssemblyInfo.cs
+E:\BaseClass\BaseClass\obj\Debug\net5.0\BaseClass.csproj.CoreCompileInputs.cache
